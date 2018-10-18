@@ -1,4 +1,4 @@
-package org.mcgill.ecse321.designpatterns.adapter;
+package ca.mcgill.ecse321.designpatterns.adapter;
 
 public class Rectangle {
 	public void draw(int x, int y, int width, int height) {

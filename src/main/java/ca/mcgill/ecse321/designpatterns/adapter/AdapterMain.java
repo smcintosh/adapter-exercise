@@ -1,4 +1,4 @@
-package org.mcgill.ecse321.designpatterns.adapter;
+package ca.mcgill.ecse321.designpatterns.adapter;
 
 import java.util.ArrayList;
 import java.util.List;

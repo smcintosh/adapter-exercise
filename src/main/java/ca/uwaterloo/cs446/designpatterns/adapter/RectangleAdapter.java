@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.designpatterns.adapter;
+package ca.uwaterloo.cs446.designpatterns.adapter;
 
 public class RectangleAdapter implements Shape {
 	private Rectangle adaptee;

@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.designpatterns.adapter;
+package ca.uwaterloo.cs446.designpatterns.adapter;
 
 public class Line {
 	public void draw(int x1, int y1, int x2, int y2) {
